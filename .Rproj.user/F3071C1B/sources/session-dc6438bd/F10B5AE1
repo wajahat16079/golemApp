@@ -1,0 +1,26 @@
+{
+    "id": "F10B5AE1",
+    "path": "C:/Users/user/Downloads/golem/golemApp/R/app_ui.R",
+    "project_path": "R/app_ui.R",
+    "type": "r_source",
+    "hash": "670337329",
+    "contents": "",
+    "dirty": false,
+    "created": 1688934021843.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,24",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1688934234,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1688934234585,
+    "read_only": false,
+    "read_only_alternatives": []
+}
