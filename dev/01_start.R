@@ -53,6 +53,8 @@ devtools::build_readme()
 ## Create a template for tests
 golem::use_recommended_tests()
 
+golem::add_rstudioconnect_file()
+
 ## Favicon ----
 # If you want to change the favicon (default is golem's one)
 golem::use_favicon() # path = "path/to/ico". Can be an online file.
